@@ -1,0 +1,4 @@
+[submodule "Packages/com.kekchpek.gamemaster-console"]
+	path = Packages/com.kekchpek.gamemaster-console
+	url = ../GameMasterConsole.git
+	branch = master

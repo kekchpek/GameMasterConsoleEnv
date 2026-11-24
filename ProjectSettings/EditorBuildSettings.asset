@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ArenaDemo/RiftArena.unity
+    guid: 3e392427ef1bd4b169214130ea7254fd
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
